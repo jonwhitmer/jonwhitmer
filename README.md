@@ -6,6 +6,7 @@ I'm a Computer Science graduate from Slippery Rock University, passionate about 
 ## 🚀 Projects I've Worked On
 - 🤖 Built a **Furhat-powered academic advisor** using Kotlin and a locally hosted DeepSeek LLM
 - 🏢 Developed a **full-stack Spring Boot evaluation system** with secure authentication, custom roles, and company-based access control
+- 💬 Coded a **Discord bot in Python** with automated replies, command handling, and dynamic interactions for community engagement
 
 ---
 
