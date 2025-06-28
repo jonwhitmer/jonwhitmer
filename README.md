@@ -18,7 +18,7 @@ I'm a Computer Science graduate from Slippery Rock University, passionate about 
 
 ## 🎓 Career Goals
 - 💼 Actively seeking full-time **Software Engineering roles**
-- 🎯 Long-term: Pursue a **Master’s or Ph.D.** in CS, Business, or Artificial Intelligence
+- 🎯 Long-term: Pursue a **Master’s** in CS, Business, or Artificial Intelligence
 
 ---
 
