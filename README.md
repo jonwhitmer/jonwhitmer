@@ -26,4 +26,4 @@ I'm a Computer Science graduate from Slippery Rock University, passionate about 
 ## 📲 Socials & Portfolio
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jonwhitmer)
 - 🛠️ [GitHub Portfolio](https://github.com/jonwhitmer)
-- 📄 [Resume](https://github.com/jonwhitmer/jonwhitmer/blob/main/JonWhitmerResume2025.pdf)
+- 📄 [Resume] See LinkedIn
